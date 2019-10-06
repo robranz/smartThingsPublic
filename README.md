@@ -1,0 +1,2 @@
+# smartThingsPublic
+thing
